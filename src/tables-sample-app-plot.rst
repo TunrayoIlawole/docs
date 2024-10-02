@@ -32,7 +32,7 @@ The next screen is a *Map View* of the different sites in the records.
     :alt: Tables Sample Plot Map View
     :class: device-screen-vertical
 
-Each site is meant to represent an area where crop growth and health is being tracked. This provides a convenient view of the locations of the sample sites, and would be a good use for the *Navigation View* if a user had trouble finding one of the sites. Choose the :menuselection:`Ungoni` site.
+Each site is meant to represent an area where crop growth and health are being tracked. This provides a convenient view of the locations of the sample sites, and would be a good use for the *Navigation View* if a user had trouble finding one of the sites. Choose the :menuselection:`Ungoni` site.
 
   .. image:: /img/tables-sample-app/tables-sample-plot-graph-original.*
     :alt: Tables Sample Plot Graph View
