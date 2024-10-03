@@ -15,6 +15,12 @@ To open Application Designer, navigate to the location of your unzipped folder i
 
 .. code-block:: console
 
+   $ npm install
+
+This command installs all the packages listed in the :file:`package.json` file. After that, type:
+
+.. code-block:: console
+
    $ grunt
 
 This command runs the script contained in :file:`Gruntfile.js`, so be sure it is in the current directory.  
