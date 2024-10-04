@@ -198,7 +198,7 @@ The :file:`framework.xlsx` file is central to the structure of the Application D
  
   3. Rename the :file:`framework.clean` folder to :file:`framework`
 
-  4. The *initial* worksheet of :file:`framework.xlsx` should have a header: :th:`clause` and value :tc:`do section survey`.
+  4. The *initial* worksheet of :file:`framework.xlsx` should have a header: :th:`clause` and value: :tc:`do section survey`.
 
     .. list-table:: *initial* worksheet
       :header-rows: 1
@@ -350,7 +350,7 @@ Assuming you have created a :file:`testForm.xlsx`, the appropriate directory str
 The following changes will also need to be made to the :file:`framework.xlsx` **choices worksheet**
 
 .. csv-table:: Example Framework Choices Worksheet
-  :header: "choice_list_name", "data_value", "display.text"
+  :header: "choice_list_name", "data_value", "display.title.text"
 
   "test_forms", "testForm", "testForm"
 
